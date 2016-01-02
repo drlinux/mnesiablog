@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 eunit
 deps
 log
 Mnesia.*
+=======
+.eunit
+deps
+>>>>>>> 1b0a3fcc1ab7af7be4460e7ec59dd66ac750989d
 *.o
 *.beam
 *.plt
@@ -9,4 +14,8 @@ erl_crash.dump
 ebin
 rel/example_project
 .concrete/DEV_MODE
+<<<<<<< HEAD
 .rebardeps/
+=======
+.rebar
+>>>>>>> 1b0a3fcc1ab7af7be4460e7ec59dd66ac750989d
